@@ -3,11 +3,10 @@ kind: Service
 metadata:
   name: devops-service
 spec:
-  type: NodePort
   selector:
     app: devops-app
   ports:
     - protocol: TCP
       port: 5000
       targetPort: 5000
-      nodePort: 30036
+  type: NodePort
