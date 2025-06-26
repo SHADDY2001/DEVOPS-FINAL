@@ -14,6 +14,7 @@ spec:
     spec:
       containers:
       - name: flask-container
-        image: devops-k8s-app
+        image: devops-k8s-app  # <-- Your locally built image
+        imagePullPolicy: IfNotPresent  # <-- THIS FIXES THE ISSUE
         ports:
         - containerPort: 5000
