@@ -144,7 +144,8 @@ BADGES😊✔😃😊✔😃😊✔😃😊✔😃
 ![Grafana](https://img.shields.io/badge/Dashboard-Grafana-yellow?logo=grafana)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![License](https://img.shields.io/github/license/SHADDY2001/DEVOPS-FINAL)
-![Stars](https://img.shields.io/github/stars/SHADDY2001/DEVOPS-FINAL?style=social)
+![Stars](https://img.shields.io/github/stars/SHADDY2001/DEVOPS-FINAL?style=social&cacheSeconds=1)
+
 
 ## 📜 License
 This project is open-source. Do whatever you want — just learn, build, and grow 🚀
