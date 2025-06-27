@@ -137,7 +137,7 @@ Access:
 BADGES😊✔😃😊✔😃😊✔😃😊✔😃
 # 🚀 DEVOPS FINAL PROJECT
 
-![Build Status](https://github.com/SHADDY2001/DEVOPS-FINAL/actions/workflows/main.yml/badge.svg)
+
 ![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-deployed-blue?logo=kubernetes)
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus)
