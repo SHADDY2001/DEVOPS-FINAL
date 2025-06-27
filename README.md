@@ -124,7 +124,6 @@ Access:
 * 📸 Add Grafana screenshot to README
 
 ---
-
 ## 🧠 Author
 
 **Shadab Ahmed**
@@ -134,29 +133,5 @@ Access:
 ---
 
 ## 📜 License
-
 This project is open-source. Do whatever you want — just learn, build, and grow 🚀
 
----
-
-## 💬 Need Help?
-
-Ping me on GitHub or raise an issue. Contributions welcome!
-
-````
-
----
-
-### 📌 What to do next:
-
-1. **Save this as `README.md` in your project root.**
-2. Commit + push:
-   ```bash
-   git add README.md
-   git commit -m "📝 Add professional README for full DevOps stack"
-   git push origin main
-````
-
-3. Share the repo with recruiters, seniors, and hiring managers.
-
-Want a badge-rich GitHub README with visuals, GIFs, and CI badges? Just say the word — I’ll level it up! 💪
