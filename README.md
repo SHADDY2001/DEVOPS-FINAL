@@ -1,4 +1,5 @@
-Awesome, Shadab — let's roll. Here's a 🔥 **professional `README.md`** for your full-stack DevOps monitoring project using Flask, Docker, Prometheus, and Grafana:
+💡 "🚀 Full-Stack DevOps Monitoring with Flask, Docker, Prometheus & Grafana"
+"⚙️ Real-World DevOps Stack: Containerized Flask App with Full Monitoring (Prometheus + Grafana)"
 
 ---
 
