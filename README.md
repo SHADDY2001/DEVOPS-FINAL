@@ -132,6 +132,31 @@ Access:
 
 ---
 
+
+
+BADGES😊✔😃😊✔😃😊✔😃😊✔😃
+# 🚀 DEVOPS FINAL PROJECT
+
+![Build Status](https://github.com/SHADDY2001/DEVOPS-FINAL/actions/workflows/main.yml/badge.svg)
+![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-deployed-blue?logo=kubernetes)
+![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Dashboard-Grafana-yellow?logo=grafana)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![License](https://img.shields.io/github/license/SHADDY2001/DEVOPS-FINAL)
+![Stars](https://img.shields.io/github/stars/SHADDY2001/DEVOPS-FINAL?style=social)
+
 ## 📜 License
 This project is open-source. Do whatever you want — just learn, build, and grow 🚀
 
+
+🔥 What These Badges Show:
+Badge	Info
+✅ Build	From GitHub Actions (CI/CD)
+🐳 Docker	App is containerized
+☸ Kubernetes	Deployed in Kubernetes
+📊 Prometheus	Monitoring is enabled
+📈 Grafana	Visual dashboards integrated
+🐍 Python	Language version used
+🪪 License	License of your repository
+⭐ GitHub Stars	Popularity of the project
