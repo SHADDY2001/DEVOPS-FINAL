@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -18,3 +19,17 @@ spec:
         imagePullPolicy: IfNotPresent  # <-- THIS FIXES THE ISSUE
         ports:
         - containerPort: 5000
+=======
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: flask-service
+spec:
+  selector:
+    app: flask-app
+  ports:
+    - protocol: TCP
+      port: 5000
+      targetPort: 5000
+>>>>>>> master
